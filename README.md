@@ -7,7 +7,8 @@ I'm Sedat Kavak, a Mobile Application Developer with experience in Flutter and A
 - **Languages:** Dart, Kotlin
 - **Frameworks & Libraries:** Flutter, Jetpack Compose, Hilt, Retrofit
 - **Architecture & State Management:** Clean Architecture, MVVM, GetX
-- **Firebase Services:** Authentication, Cloud Firestore, Cloud Messaging, Remote Config
+- **Backend & Database:** Firebase (Auth, Cloud Firestore, Cloud Messaging, Remote Config), Supabase, MongoDB, Railway
+- **Deployment & Tools:** Vercel, Git, Postman
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/sedat-kavak/)
